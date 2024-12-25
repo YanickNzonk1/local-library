@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+####   fichiers de backup
+*.bak
+
+####  Base de donnees
+*.sqlite3
